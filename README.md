@@ -2,10 +2,9 @@
 INFO 7390
 
 ## Team3 
-Guangnan Liang: 1-DataWrangling.docx
+Hongwei Hu: PredictionAndClassification.docx
 
-
-Hongwei Hu: 2-PredictionAndClassification.docx
+Guangnan Liang: refer to Wrangling/notebook
 
 ## Docker Hub
 Name: besimilar/advanced-data-analysis:mid
